@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Publisher Privacy Policy!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          We do not collect any data from the users
+          You may NOT edit/copy/change/modify/publish our code/project/plugin with out our permission</code>
         </p>
       </main>
 
